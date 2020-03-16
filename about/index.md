@@ -2,7 +2,8 @@
 layout: default
 title: Ernie E. Fontes
 ---
-#{{ page.title }}
+# {{ page.title }}
+
   <script type="text/javascript">
   var imageURLs = [
   "../images/ernie_fleet_coffee.jpg"
@@ -23,9 +24,11 @@ title: Ernie E. Fontes
   }
   </script>
 
+  <p align="right">
   <script type="text/javascript">
     document.write(getImageTag());
   </script>
+  </p>
 
   I'm Ernie E. Fontes. I'm a postdoc in mathematics who did his PhD at the
   University of Texas and his undergraduate studies at Harvard. My
