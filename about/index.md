@@ -2,7 +2,7 @@
 layout: default
 title: Ernie E. Fontes
 ---
-  <h1>{{ page.title }}</h1>
+#{{ page.title }}
   <script type="text/javascript">
   var imageURLs = [
   "../images/ernie_fleet_coffee.jpg"
