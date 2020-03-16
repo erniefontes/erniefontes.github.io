@@ -8,6 +8,6 @@ title: Ernie E. Fontes's Blog
       {% for post in site.posts %}
         <li><span>{{ post.date | date_to_string }}</span>: <a href="{{
           post.url }}" title = "{{ post.title }}">{{ post.title }}</a>
-        ###### {{ post.excerpt }} </li>
+        <h6> {{ post.excerpt }} <h6> </li>
       {% endfor %}
   </ul>
