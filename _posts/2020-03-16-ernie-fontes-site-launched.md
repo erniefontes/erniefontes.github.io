@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ernie Fontes Launches Improved Website"
+title: "Ernie E. Fontes Launches Improved Website"
 date: 2020-03-16
 ---
 
