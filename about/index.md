@@ -30,13 +30,16 @@ title: Ernie E. Fontes
   </script>
   </p>
 
-  I'm Ernie E. Fontes. I'm a postdoc in mathematics who did his PhD at the
-  University of Texas and his undergraduate studies at Harvard. My
-  [math research](../math/) is in homotopy theory and category theory.
-  I'm currently leaving academia and retooling for a career in data science.
+  I'm Ernie E. Fontes. I'm the Head of Analytics at Guardinex, a novel
+  fraud-detection company. Before that, I was a Ross Assistant
+  Professor in mathematics at the Ohio State University. I completed
+  my PhD at the University of Texas before that I did my undergraduate
+  studies at Harvard. My [math research](../math/) is in homotopy
+  theory and higher category theory.
 
-  I am also a passionate baker, making fresh loaves of naturally-leavened bread
-  most weekends. I am a skilled pizzaiolo, with a focus on thin-crust neo-Neapolitan
-  pizza which I cook in my Roccbox. I'm a dedicated rock climber (bouldering > lead)
-  and I maintain a regular yoga practice. I also am an amateur photography enthusiast
-  and I listen to many hours of indie music on Spotify.
+  I am also a passionate baker, making fresh loaves of
+  naturally-leavened bread most weekends. I am a skilled pizzaiolo,
+  with a focus on thin-crust neo-Neapolitan pizza which I cook in my
+  Roccbox. I'm a dedicated rock climber (bouldering > lead) and I
+  maintain a regular yoga practice. I also am an amateur photography
+  enthusiast and I listen to many hours of indie music on Spotify.
