@@ -30,8 +30,8 @@ title: Ernie E. Fontes
   </script>
   </p>
 
-  I'm Ernie E. Fontes. I'm the Head of Analytics at Guardinex, a novel
-  fraud-detection company. Before that, I was a Ross Assistant
+  I'm Ernie E. Fontes. I'm the Head of Data Science at Guardinex, a
+  fraud-detection startup company. Before that, I was a Ross Assistant
   Professor in mathematics at the Ohio State University. I completed
   my PhD at the University of Texas before that I did my undergraduate
   studies at Harvard. My [math research](../math/) is in homotopy
