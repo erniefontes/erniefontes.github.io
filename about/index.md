@@ -30,10 +30,9 @@ title: Ernie E. Fontes
   </script>
   </p>
 
-  I'm Ernie E. Fontes. I'm the Head of Data Science at Guardinex, a
-  fraud-detection startup company. Before that, I was a Ross Assistant
+  I'm Ernie E. Fontes. I'm a Senior Research Scientist at Upstart. Before that, I was Head of Data Science at Guardinex. Before that, I was a Ross Assistant
   Professor in mathematics at the Ohio State University. I completed
-  my PhD at the University of Texas before that I did my undergraduate
+  my PhD at the University of Texas prior to my postdoc and I did my undergraduate
   studies at Harvard. My [math research](../math/) is in homotopy
   theory and higher category theory.
 
